@@ -1,0 +1,19 @@
+ nav li {
+    display: inline;
+}
+ body {
+    background-color: rgba(0, 0, 0, 0.852);
+    color: white;
+ }
+ #nameandnoun {
+    margin:0;
+    padding:0;
+    line-height: 12px;
+ }
+ a {
+    color: rgba(255, 255, 255, 0.788);
+ }
+ .bottom {
+   position: fixed;
+  bottom: 0;
+ }
